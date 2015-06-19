@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Just test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Plus Pingya",
+  "license": "Free",
+  "dependencies": {
+    "async": "^1.2.1",
+    "babyparse": "^0.4.3",
+    "cassandra-driver": "^2.1.1"
+  }
+}
